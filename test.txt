@@ -1,0 +1,7 @@
+bat 
+ant
+pant
+eat
+taste
+people
+apple
